@@ -18,7 +18,7 @@ Assume you are awesome Front-End Developer. You have requirements from Product o
 
 2. Use CSS or SCSS with any framework like Bootstrap, Tailwind, Material-ui
 
-3. Get products from RESTful API [https://fakestoreapi.com/](https://fakestoreapi.com/)
+3. Get products data from RESTful API [https://fakestoreapi.com/](https://fakestoreapi.com/)
 
 #### Bonus
 
