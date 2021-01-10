@@ -64,4 +64,4 @@ You can surprice us with any awesome idea.
 
 Push your code to your github account and write step to run your application.
 
-PS: It's would be great if you use docker and docker-compose
+PS: It would be great if you use can docker and docker-compose
