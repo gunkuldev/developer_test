@@ -44,7 +44,7 @@ Assume you are awesome Back-End Developer. Your team lead asking you to implemen
 
 2.2 build endpoint to get product by id
 
-2.3 build endpoint to create product (name, description, price, image)
+2.3 build endpoint to create product (name, description, price, image) *** image must be file (multipart/form-data) not the url of the image.
 
 2.4 build endpoint to update product
 
@@ -55,6 +55,8 @@ Assume you are awesome Back-End Developer. Your team lead asking you to implemen
 1. You can use any server side languages (We prefer Node.js).
 
 2. You can use any database you like.
+
+3. Written document (endpoint/headers/request body/response) for RESTful API so we can test it.
 
 #### Bonus
 
