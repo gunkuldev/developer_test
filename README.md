@@ -1,20 +1,20 @@
 ## Front-End Developer
 
-Assume you are awesome Front-End Developer. You have requirements from Product owner that need an E-Commerce Platform.
+Assume you are awesome Front-End Developer. You have requirements from Product owner that need E-Commerce Platform.
 
 ### Features
 
-1. List 10 products in home page with product name, product image, price and Add to Cart button
+1. List 10 products in home page with product name, product image, price and "Add to Cart" button
 
-2. When user click at product name or product image. You must redirect to product detail page with product information.
+2. When user click at product name or product image. You must redirect to product detail page which show product information.
 
-3. When user click at “Add to Cart” button that product must be in cart pop up + calculate total price (Example Below).
+3. When user click at "Add to Cart" button that product must display in cart pop up + calculate total price (Example Below).
 
 ![Cart Example](images/cart.png)
 
-### Technical Requirements
+### Technical Details
 
-1. Use React.js or Next.js
+1. You can use React or Next.js/Angular/Vue (We prefer React and Next.js)
 
 2. Use CSS or SCSS with any framework like Bootstrap, Tailwind, Material-ui
 
@@ -24,6 +24,44 @@ Assume you are awesome Front-End Developer. You have requirements from Product o
 
 You can surprice us with any awesome idea.
 
-### Back-End Developer
+---
 
-Coming soon
+## Back-End Developer
+
+Assume you are awesome Back-End Developer. Your team lead asking you to implement RESTful API to manage products for E-Commerce Platform + Admin System.
+
+### Features
+
+1. Admin System
+
+1.1 Login Page with Email + Password
+
+1.2 After login redirect to the page that list all products that added from API
+
+2. RESTful API
+
+2.1 build endpoint to list all product.
+
+2.2 build endpoint to get product by id
+
+2.3 build endpoint to create product (name, description, price, image)
+
+2.4 build endpoint to update product
+
+2.5 build endpoint to delete product
+
+### Technical Details
+
+1. You can use any server side languages (We prefer Node.js).
+
+2. You can use any database you like.
+
+#### Bonus
+
+You can surprice us with any awesome idea.
+
+## How to send
+
+Push your code to your github account and write step to run your application.
+
+PS: It's would be great if you use docker and docker-compose
