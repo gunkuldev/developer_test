@@ -26,7 +26,7 @@ Assume you are awesome Front-End Developer. You have requirements from Product o
 
 #### Bonus
 
-You can surprice us with any awesome idea.
+You can surprise us with any awesome idea.
 
 ---
 
@@ -60,13 +60,15 @@ Assume you are awesome Back-End Developer. Your team lead asking you to implemen
 
 2. You can use any database you like.
 
-3. Written document (endpoint/headers/request body/response) for RESTful API so we can test it.
+3. Written document (endpoint/headers/request body/response) for RESTful API **so we can test it**.
 
 4. Any explaination you can put it in README.md or put it in your code comment.
 
+5. Don't forget document for RESTful API
+
 #### Bonus
 
-You can surprice us with any awesome idea.
+You can surprise us with any awesome idea.
 
 ## How to send
 
